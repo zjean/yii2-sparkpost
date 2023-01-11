@@ -13,7 +13,7 @@
   "require": {
     "php": ">=5.5",
     "yiisoft/yii2": "*",
-    "sparkpost/sparkpost": "~1.0"
+    "sparkpost/sparkpost": "~3.0"
   },
   "require-dev": {
     "codeception/codeception": "2.1.*",
